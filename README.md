@@ -5,6 +5,8 @@
 A very basic Android app that displays a greeting from the creator (me!)
 
 ### App Walk-though
+ ![app](https://user-images.githubusercontent.com/89958513/147803311-009ff2bb-b94f-4756-af75-cdc87ca49685.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
